@@ -1,5 +1,5 @@
 # HW2 – Hough Transform and Line Detection
-**Assignment Due:** Tuesday, Dec 9th, 11:59 PM EST
+**Assignment Due:** Thursday, Sep 24th, 11:59 PM EST
 
 ## Directions
 1. Download the `HW2.ipynb` notebook.
