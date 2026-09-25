@@ -1,5 +1,5 @@
 # HW4 – Panorama Stitching
-**Assignment Due:** Sunday, Nov 2nd, 11:59 PM EST
+**Assignment Due:** Friday, Oct 2nd, 11:59 PM EST
 
 ## Directions
 1. Download the `HW4.ipynb` notebook.
