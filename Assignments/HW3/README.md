@@ -1,5 +1,5 @@
 # HW3 – Make the 2D Photo Pop Out
-**Assignment Due:** Thursday, October 16th, 11:59 PM EST
+**Assignment Due:** Wednesday, October 21, 11:59 PM EST
 
 ## Overview
 In this assignment, you will:
